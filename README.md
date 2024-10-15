@@ -6,4 +6,8 @@ This project takes a file passed to it and removes all "filler words" and punctu
 
 I used the US constitution as example text because old timey articles & proclimations use a *ton* of these to sound grandiose.
 
-Because the file is rather simple, I offer a simple video to sate attention for just a little longer.
+Because the file is rather simple, I offer a simple video to sate attention for just a little longer;
+
+https://github.com/user-attachments/assets/442557d0-742c-46e0-b981-14a02f65fae4
+
+(For crediting purposes, if relevant I believe this came from this reddit post but I honestly have no idea: https://www.reddit.com/r/metalgearsolid/comments/1dmold3/mgsv_meow_gear_solid_v/ )
